@@ -18,8 +18,9 @@ Adapted from [xiangwang1223/knowledge_graph_attention_network](https://github.co
 
 ## running procedure
 
-* Download Data folder from [tsinghua-cloud](https://cloud.tsinghua.edu.cn/d/2bafd2674d5d43299dfa/) and unzip to current folder
-* Download pretrain folder from [tsinghua-cloud](https://cloud.tsinghua.edu.cn/d/2bafd2674d5d43299dfa/) and unzip to current folder
+our datasets are from baseline [Simple-HGN](https://github.com/THUDM/HGB)
+* Download Data folder and pretrain folder
+* unzip them to current folder
 * cd to Model folder and run
 
 ## run
@@ -36,5 +37,8 @@ python -u main.py --model_type baseline --gpu_id 0 --ue_lambda 0.1 --idf_samplin
 
 
 ## Citation
+* **Title:** Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks.
+* **Authors:** Qingsong Lv\*, Ming Ding\*, Qiang Liu, Yuxiang Chen, Wenzheng Feng, Siming He, Chang Zhou, Jianguo Jiang, Yuxiao Dong, Jie Tang.
+* **In proceedings:** KDD 2021.
 
 * **Title:** Revisiting Collaborative Knowledge Graphs: What role does a knowledge graph really play?.
