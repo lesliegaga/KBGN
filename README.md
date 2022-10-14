@@ -41,4 +41,4 @@ python -u main.py --model_type baseline --gpu_id 0 --ue_lambda 0.1 --idf_samplin
 * **Authors:** Qingsong Lv\*, Ming Ding\*, Qiang Liu, Yuxiang Chen, Wenzheng Feng, Siming He, Chang Zhou, Jianguo Jiang, Yuxiao Dong, Jie Tang.
 * **In proceedings:** KDD 2021.
 
-* **Title:** Revisiting Collaborative Knowledge Graphs: What role does a knowledge graph really play?.
+* **Title:** Preference Extraction: Learning User-preference in Knowledge-based Collaborative Graph.
